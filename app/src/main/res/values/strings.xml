@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarrosCrudV2</string>
+    <string name="textoSobre">Aplicativo com fins acadêmicos, onde é usado WebServices para salvar os dados em nuvem, também está sendo usado implementações para execução de ações deste projeto. Desenvolvido por Edilson da Paixao, estudante do curso de Ciências da Computação.</string>
+    <string name="btnVoltarTelaInicial">voltar para tela inicial</string>
+</resources>
